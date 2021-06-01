@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/deck_of_cards/static/css/main.b198342d.chunk.css",
-    "main.js": "/deck_of_cards/static/js/main.17c9ee7b.chunk.js",
-    "main.js.map": "/deck_of_cards/static/js/main.17c9ee7b.chunk.js.map",
-    "runtime-main.js": "/deck_of_cards/static/js/runtime-main.5fefebcc.js",
-    "runtime-main.js.map": "/deck_of_cards/static/js/runtime-main.5fefebcc.js.map",
-    "static/js/2.693f775b.chunk.js": "/deck_of_cards/static/js/2.693f775b.chunk.js",
-    "static/js/2.693f775b.chunk.js.map": "/deck_of_cards/static/js/2.693f775b.chunk.js.map",
-    "static/js/3.609a76f3.chunk.js": "/deck_of_cards/static/js/3.609a76f3.chunk.js",
-    "static/js/3.609a76f3.chunk.js.map": "/deck_of_cards/static/js/3.609a76f3.chunk.js.map",
-    "index.html": "/deck_of_cards/index.html",
-    "static/css/main.b198342d.chunk.css.map": "/deck_of_cards/static/css/main.b198342d.chunk.css.map",
-    "static/js/2.693f775b.chunk.js.LICENSE.txt": "/deck_of_cards/static/js/2.693f775b.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/deck_of_cards/static/media/logo.6ce24c58.svg"
+    "main.css": "/Deck_of_cards/static/css/main.b198342d.chunk.css",
+    "main.js": "/Deck_of_cards/static/js/main.17c9ee7b.chunk.js",
+    "main.js.map": "/Deck_of_cards/static/js/main.17c9ee7b.chunk.js.map",
+    "runtime-main.js": "/Deck_of_cards/static/js/runtime-main.bd29422e.js",
+    "runtime-main.js.map": "/Deck_of_cards/static/js/runtime-main.bd29422e.js.map",
+    "static/js/2.693f775b.chunk.js": "/Deck_of_cards/static/js/2.693f775b.chunk.js",
+    "static/js/2.693f775b.chunk.js.map": "/Deck_of_cards/static/js/2.693f775b.chunk.js.map",
+    "static/js/3.609a76f3.chunk.js": "/Deck_of_cards/static/js/3.609a76f3.chunk.js",
+    "static/js/3.609a76f3.chunk.js.map": "/Deck_of_cards/static/js/3.609a76f3.chunk.js.map",
+    "index.html": "/Deck_of_cards/index.html",
+    "static/css/main.b198342d.chunk.css.map": "/Deck_of_cards/static/css/main.b198342d.chunk.css.map",
+    "static/js/2.693f775b.chunk.js.LICENSE.txt": "/Deck_of_cards/static/js/2.693f775b.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/Deck_of_cards/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.5fefebcc.js",
+    "static/js/runtime-main.bd29422e.js",
     "static/js/2.693f775b.chunk.js",
     "static/css/main.b198342d.chunk.css",
     "static/js/main.17c9ee7b.chunk.js"
